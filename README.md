@@ -7,19 +7,25 @@ The CWC2023_Analysis_PowerBI project is a data visualization initiative focused 
 # Objectives:
 
 Data Visualization: Create engaging dashboards that showcase match outcomes, player performances, and team statistics.
+
 Trend Analysis: Identify patterns and trends over the course of the tournament to provide insights into team strategies and player effectiveness.
+
 User Interaction: Enable users to interact with the data through filters and slicers, allowing for customized analysis.
 
 # Key Features:
 
 Comprehensive Dashboards: Visualizations for match summaries, player stats, and team performance.
+
 Dynamic Data Integration: Incorporation of multiple data sources, including match results and player statistics.
+
 Custom Visual Elements: Utilization of Power BI’s advanced visualization tools to enhance data storytelling.
 
 # Technologies Used:
 
 Power BI: Main tool for data visualization and analysis.
+
 Data Sources: CSV files, Excel sheets, and potentially APIs for real-time data.
+
 DAX: Data analysis expressions for advanced calculations and metrics.
 
 # Usage:
