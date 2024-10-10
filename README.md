@@ -18,8 +18,9 @@ Custom Visual Elements: Utilization of Power BI’s advanced visualization tools
 
 # Technologies Used:
 
-Power BI: Primary tool for creating visualizations and reports.
-Data Sources: Various data formats such as CSV, Excel, and potential API integrations.
+Power BI: Main tool for data visualization and analysis.
+Data Sources: CSV files, Excel sheets, and potentially APIs for real-time data.
+DAX: Data analysis expressions for advanced calculations and metrics.
 
 # Usage:
 
